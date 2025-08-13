@@ -5,7 +5,7 @@ A small HTML & CSS project I selected from a website and rebuilt to practice my 
 ---
 
 ## 🔗 Live Demo
-[View Live Demo](https://github.com/mohammadzali2005/Mini-Project-1) <!-- Replace with GitHub Pages or hosting link -->
+[View Live Demo]([https://github.com/mohammadzali2005/Mini-Project-1](https://mohammadzali2005.github.io/Mini-Project-1/)) 
 
 ---
 
@@ -24,6 +24,5 @@ A small HTML & CSS project I selected from a website and rebuilt to practice my 
 
 ## 📂 How to Use
 1. Clone the repository:
-   ```bash
    git clone https://github.com/mohammadzali2005/Mini-Project-1.git
 
