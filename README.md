@@ -5,7 +5,7 @@ A small HTML & CSS project I selected from a website and rebuilt to practice my 
 ---
 
 ## 🔗 Live Demo
-[View Live Demo]([https://github.com/mohammadzali2005/Mini-Project-1](https://mohammadzali2005.github.io/Mini-Project-1/)) 
+[View Live Demo](https://mohammadzali2005.github.io/Mini-Project-1/)
 
 ---
 
